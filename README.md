@@ -19,3 +19,9 @@ Este site foi desenvolvido para servir como meu currículo online, destacando mi
 ✔️ Código otimizado e de fácil manutenção  
 
 ## 📂 Estrutura do Projeto  
+📁 MeuPortfólio
+┣ 📂 assets/ # Imagens e arquivos estáticos
+┣ 📜 index.html # Página principal
+┣ 📜 style.css # Estilos do site
+┣ 📜 script.js # Scripts de interação
+┗ 📜 README.md # Este arquivo
